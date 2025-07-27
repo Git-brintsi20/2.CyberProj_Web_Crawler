@@ -1,9 +1,17 @@
 
     venv/
-    
+    *.pyc
+    *.pyo
+    *.pyd
+
+
 
     __pycache__/
-    
+    .DS_Store
+    .env
+
 
     .vscode/
     .idea/
+    .pytest_cache/
+    .coverage
