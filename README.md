@@ -18,7 +18,7 @@ A lightweight, efficient command-line tool built with Python to crawl a list of 
 
 ## 🚀 Demo
 
-![Demo GIF Placeholder](https://user-images.githubusercontent.com/26887593/180222485-3313d4f3-1658-4687-9572-13d6a2f4a4a8.gif)
+![Web Crawler Demo](https://github.com/Git-brintsi20/2.CyberProj_Web_Crawler/blob/main/Animation.gif?raw=true)
 
 ---
 
