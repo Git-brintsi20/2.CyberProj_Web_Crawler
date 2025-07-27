@@ -9,6 +9,8 @@
     __pycache__/
     .DS_Store
     .env
+    .gif
+    .csv
 
 
     .vscode/
