@@ -1,0 +1,2 @@
+url,parameters
+https://example.com?param1=value1,{'param1': ['value1']}
